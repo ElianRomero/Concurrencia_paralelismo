@@ -1,0 +1,1 @@
+Solución actividad CONCURRENCIA Y PARALELISMO realizado por: Angelo David Diaz Cortes y Elian Danilo Romero Herrera
